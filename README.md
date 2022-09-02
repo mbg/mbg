@@ -1,4 +1,4 @@
-I am a Software Engineer at [Tweag](https://tweag.io), consulting for [Hachi Security](https://github.com/HachiSecurity). I like open-source, teaching, and all things to do with programming languages!
+I am a Software Engineer at [Tweag](https://tweag.io), consulting for [Juspay](https://juspay.in). Previously consulted for [Hachi Security](https://github.com/HachiSecurity). I like open-source, teaching, and all things to do with programming languages!
 
 I maintain a number of Haskell libraries, which you can find on [Hackage](https://hackage.haskell.org/user/mbg). Some that you might be interested in are:
 
